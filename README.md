@@ -18,6 +18,19 @@ Full integration – Atlassian Crucible software works with Jira, Fisheye, Confl
 Bookmark discussions – conversations will be waiting for you when you return to your workspace.
 Centralised view for developers – total visibility into all commit and review activity.
 Implementing peer review policies – get the seal of approval before committing any changes.
+==========================================================================================
+Crucible
+    Crucible is a collaborative code review application by Australian software company Atlassian. Like other Atlassian products, Crucible is 
+    a Web-based application primarily aimed at enterprise, and certain features that enable peer review of a codebase may be considered 
+    enterprise social software.
 
+    Crucible is particularly tailored to distributed teams and facilitates asynchronous review and commenting on code. Crucible also integrates 
+    with popular source control tools such as Git and Subversion. Crucible is not open source, but customers are allowed to view and modify the 
+    code for their own use.
 
+    /* Fisheye and Crucible are two separate products that are highly integrated with one another. Fisheye provides the ability to browse, 
+    search, and report from your repository data as it has the ability to index your entire repository history. Crucible, on the other hand, 
+    provides code review features */
+
+    https://www.atlassian.com/software/crucible/features
 
